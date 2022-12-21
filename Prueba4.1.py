@@ -14,3 +14,4 @@ for i in range(9):
     print(((i*-5)+40))
 for i in range(9):
     print(((i*-5)+50))
+print("Siuuu")
